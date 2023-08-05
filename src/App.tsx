@@ -73,7 +73,7 @@ function App() {
                 <img src={img2} className="lg:w-1/2" />
             </div>
             <div className="flex flex-col lg:flex-row gap-x-4 mt-4 lg:mt-24 items-center px-4 lg:px-0">
-                <img src={img1} className="lg:w-1/2" />
+                <img src={img3} className="lg:w-1/2" />
                 <div className="lg:w-1/2">
                     <h3 className="text-[#F14D0E] font-bold text-lg mt-4 lg:mt-0">Une Porte Ouverte sur l'Opportunité</h3>
                     <p className="mt-3">Nous sommes convaincus que le pouvoir du réseau est inestimable. En organisant des meetups et des conférences techniques, nous créons un espace chaleureux où les développeurs peuvent échanger leurs expériences, partager des connaissances et construire des partenariats fructueux. Ensemble, nous bâtissons une communauté solide et soudée.</p>
